@@ -1,0 +1,11 @@
+c:\users\nick\documents\visual studio 2017\Projects\Hangman\Hangman\bin\Debug\netcoreapp1.1\Hangman.deps.json
+c:\users\nick\documents\visual studio 2017\Projects\Hangman\Hangman\bin\Debug\netcoreapp1.1\Hangman.runtimeconfig.json
+c:\users\nick\documents\visual studio 2017\Projects\Hangman\Hangman\bin\Debug\netcoreapp1.1\Hangman.runtimeconfig.dev.json
+c:\users\nick\documents\visual studio 2017\Projects\Hangman\Hangman\bin\Debug\netcoreapp1.1\Hangman.dll
+c:\users\nick\documents\visual studio 2017\Projects\Hangman\Hangman\bin\Debug\netcoreapp1.1\Hangman.pdb
+c:\users\nick\documents\visual studio 2017\Projects\Hangman\Hangman\obj\Debug\netcoreapp1.1\Hangman.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2017\Projects\Hangman\Hangman\obj\Debug\netcoreapp1.1\Hangman.AssemblyInfo.cs
+c:\users\nick\documents\visual studio 2017\Projects\Hangman\Hangman\obj\Debug\netcoreapp1.1\Hangman.dll
+c:\users\nick\documents\visual studio 2017\Projects\Hangman\Hangman\obj\Debug\netcoreapp1.1\Hangman.pdb
+C:\Users\nick\Documents\Visual Studio 2017\Projects\Hangman\Hangman\obj\Debug\netcoreapp1.1\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\nick\Documents\Visual Studio 2017\Projects\Hangman\Hangman\obj\Debug\netcoreapp1.1\Hangman.AssemblyInfoInputs.cache
